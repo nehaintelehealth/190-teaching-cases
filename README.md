@@ -26,7 +26,7 @@ This dataset contains 190 standardized patient case studies drawn from medical t
 
 ## Purpose
 
-The intended use is [e.g., evaluating clinical decision support tools, benchmarking diagnostic accuracy of AI models, or training health workers].
+The intended use is for evaluating clinical decision support tools, benchmarking diagnostic accuracy of AI models, and training health workers
 
 ---
 
